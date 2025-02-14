@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌿 EcoWatch
+# 🌿 CLEAN-VISION
 ### AI-Driven Garbage Detection & LiFE Practices Monitoring Dashboard
 
 [![GitHub license](https://img.shields.io/github/license/dopTrashTrackers/website)](https://github.com/dopTrashTrackers/website/blob/master/LICENSE)
